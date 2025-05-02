@@ -1,1 +1,3 @@
-# muthusamy
+#requirments
+
+pip install streamlit
